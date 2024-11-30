@@ -1,1 +1,2 @@
-# Mental-Wellness-App
+# React + Vite
+
